@@ -90,4 +90,4 @@ usage patterns and make better energy management decisions.
 
 ## Author
 
-Heena Valecha
+Heena Valecha & Sia Chhatlani
